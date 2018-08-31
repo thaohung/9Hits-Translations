@@ -2,7 +2,7 @@
 Hi 9Hits Members :-)! To bring 9Hits closer to you as well as easy to use, this is translations of 9Hits Traffic Exchange. Please help us to translate [9Hits Panel](https://panel.9hits.com/) and [9Hits Home Page](https://9hits.com/) into your language, if any translation get completed, we will added it to our website ☺
 
 ## How to get started
-You may just copy the English translation and then translate into your own language. The filename should be language code in lowercase, for examlple: English -> en-gb.php or en-us.php or en.php, Vietnamese -> vn.php. etc.
+You may just copy the English translation and then translate into your own language. The filename should be named as language code in lowercase, for examlple: English -> en-gb.php or en-us.php or en.php, Vietnamese -> vn.php. etc.
 The header of the translation file shoud describe details about the translation. For example:
 ```
 /*
@@ -33,7 +33,7 @@ The header of the translation file shoud describe details about the translation.
  ```
 ## Note while translating
 
-If you see some wildcards like %xxx%, so just leave there wildcards as it was and translate the parts.
+If you see some wildcards like %xxx%, so just leave there wildcards as it was and translate the other parts.
 For example:
 ```
 English: Your %account-type% will expire in %days% day

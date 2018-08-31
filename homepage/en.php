@@ -1,4 +1,12 @@
 <?php
+/*
+ * Translation: English
+ * Native Name: English
+ * Country Code: en
+ * Language Code: en-gb
+ *
+ * */
+ 
 define('NAV_HOME', 'Home');
 define('NAV_ABOUT', 'About us');
 define('NAV_FEATURES', 'Features');
