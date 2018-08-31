@@ -1,5 +1,5 @@
 # 9Hits Traffic Exchange Translations
-Hi 9Hits Members :-) ! This is translations of 9Hits Traffic Exchange. Please help us to translate [9Hits Panel](https://panel.9hits.com/) and [9Hits Home Page](https://9hits.com/) into your language, if any translation get completed, we will added it to our website :)
+Hi 9Hits Members :-)! To bring 9Hits closer to you as well as easy to use, this is translations of 9Hits Traffic Exchange. Please help us to translate [9Hits Panel](https://panel.9hits.com/) and [9Hits Home Page](https://9hits.com/) into your language, if any translation get completed, we will added it to our website ☺
 
 ## How to get started
 You may just copy the English translation and then translate into your own language. The filename should be language code in lowercase, for examlple: English -> en-gb.php or en-us.php or en.php, Vietnamese -> vn.php. etc.
@@ -47,7 +47,7 @@ Vietnamese: <span class="txt-success">Việc này có thể mất 30 phút, xin 
 ```
 
 ## About English Translation
-We are not native to English, so if you are good at english, you can even help us to correct this English translation :-)
+We are not native to English, so if you are good at english, you can even help us to correct the English translation ☺
 
 
-# Best wishes to you
+# ❤ Best wishes to you ❤
