@@ -31,6 +31,9 @@ The header of the translation file shoud describe details about the translation.
  *
  * */
  ```
+ 
+ If you can translate the whole translation of a language, It is very kind of you :P. Otherwise, you dont have to translate all sentences, you may just need to contribute any sentence you want
+ 
 ## Note while translating
 
 If you see some wildcards like %xxx%, so just leave there wildcards as it was and translate the other parts.
